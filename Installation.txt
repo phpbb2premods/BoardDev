@@ -1,0 +1,42 @@
+##############################################################
+## Titre de la PréMOD: Board-Dev++
+## Auteur de la PréMOD: Adrien http://www.board-dev.info
+## PréMOD Description: Pour la première PréMOD que Board-Dev propose , 
+##		       celle-ci est basé plus particulièrement sur l'administration 
+##		       et modération avancé ainsi que la rapidité
+## 
+## PréMOD Version: 1.1.1b
+## PhpBB version:  2.0.20
+##
+## Installation Level: Facile
+## Installation Time: 5 Minutes 
+##############################################################
+## Notes de l'auteur:
+##
+## Bonjour et merci d'avoir télécharger la PréMOD Board-Dev++ , en espérant quelle vous 
+## conviennent parfaitement ! 
+##
+## Voici quelques instructions à suivre pour que cette 
+## prémod fonctionne correctement 
+##############################################################
+## Effectuer un CHMOD777 sur les fichiers suivant:
+##
+## - ctracker/logs/counter.txt
+## - ctracker/logs/logfile_flood.txt
+## - ctracker/logs/logfile_proxy.txt
+## - ctracker/logs/logfile_worms.txt
+## - cache/
+##############################################################
+## Effectuer un CHMOD666 sur le fichier suivant :
+##
+## - includes/def_bbc_box.php
+##############################################################
+
+
+
+##################################################################
+## Bonne installation à toutes et à tous , pour tout supports   ##
+##         Rendez vous sur http://www.board-dev.info   	        ##
+##################################################################
+
+
